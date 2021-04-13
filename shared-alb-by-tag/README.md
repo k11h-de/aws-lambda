@@ -33,7 +33,7 @@ simply add follwoing tags to your EC2 instances and run the lambda function
 
 | key              | value                 | 
 | ---------------- | --------------------- |
-|`SharedALB`       | `public|internal`     |
+|`SharedALB`       | `public` or `internal`|
 |`SharedALB_Port`  | `80`                  |
 |`SharedALB_Vhost` | `www.example.com`     |
 
